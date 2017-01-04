@@ -1,6 +1,6 @@
 <?php
 
-$token = '257229406:AAFgVKNlJ8hc8l7JWl9mDhzqfFBP6VLe6EU';
+$token = '257229406:AAFDrEYaqxx-2i9-I1x0I4ymdLYoRgI32dU';
 
 
 //----------------------------------------------------------------------------------
